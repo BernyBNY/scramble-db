@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-20T10:00:00Z",
+  "countries": [
+    { "code": "FR", "name": "France" },
+    { "code": "ES", "name": "Espagne" }
+  ],
+  "airfields": [
+    {
+      "id": "LFTW",
+      "name": "Nîmes-Garons",
+      "countryCode": "FR",
+      "isBase": true,
+      "isAvt": true,
+      "lat": 43.757,
+      "lon": 4.416
+    },
+    {
+      "id": "LEIB",
+      "name": "Ibiza",
+      "countryCode": "ES",
+      "isBase": false,
+      "isAvt": true,
+      "lat": 38.8729,
+      "lon": 1.3731
+    }
+  ],
+  "waterPoints": [
+    {
+      "id": "ETANG_MARSEILLE",
+      "name": "Étang de Berre",
+      "countryCode": "FR",
+      "lat": 43.462,
+      "lon": 5.124
+    },
+    {
+      "id": "BANYOLES",
+      "name": "Lac de Banyoles",
+      "countryCode": "ES",
+      "lat": 42.118,
+      "lon": 2.764
+    }
+  ]
+}
