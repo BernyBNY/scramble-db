@@ -619,7 +619,7 @@
     },
     {
       "id": "LEZL",
-      "name": "Seville Airport",
+      "name": "Seville",
       "countryCode": "ES",
       "isBase": true,
       "isAvt": true,
@@ -630,7 +630,7 @@
     },
     {
       "id": "LFAC",
-      "name": "Calais Marck Airport",
+      "name": "Calais",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -641,7 +641,7 @@
     },
     {
       "id": "LFAQ",
-      "name": "Albert Bray airport",
+      "name": "Albert",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -652,7 +652,7 @@
     },
     {
       "id": "LFAT",
-      "name": "Le Touquet-Côte d'Opale Airport",
+      "name": "Le Touquet",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -663,7 +663,7 @@
     },
     {
       "id": "LFBA",
-      "name": "Agen La Garenne airport",
+      "name": "Agen",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -674,7 +674,7 @@
     },
     {
       "id": "LFBC",
-      "name": "Cazaux (BA 120) Air Base",
+      "name": "Cazaux",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -685,7 +685,7 @@
     },
     {
       "id": "LFBD",
-      "name": "Bordeaux–Mérignac Airport",
+      "name": "Bordeaux",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -696,7 +696,7 @@
     },
     {
       "id": "LFBE",
-      "name": "Bergerac Dordogne-Périgord airport",
+      "name": "Bergerac",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -707,7 +707,7 @@
     },
     {
       "id": "LFBF",
-      "name": "Toulouse-Francazal (BA 101) Air Base",
+      "name": "Toulouse-Francazal",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -718,7 +718,7 @@
     },
     {
       "id": "LFBH",
-      "name": "La Rochelle Île de Ré Airport",
+      "name": "La Rochelle",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -729,7 +729,7 @@
     },
     {
       "id": "LFBI",
-      "name": "Poitiers-Biard Airport",
+      "name": "Poitiers",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -740,7 +740,7 @@
     },
     {
       "id": "LFBL",
-      "name": "Limoges Airport",
+      "name": "Limoges",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -751,7 +751,7 @@
     },
     {
       "id": "LFBN",
-      "name": "Niort - Marais Poitevin Airport",
+      "name": "Niort",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -762,7 +762,7 @@
     },
     {
       "id": "LFBO",
-      "name": "Toulouse-Blagnac Airport",
+      "name": "Toulouse-Blagnac",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -773,7 +773,7 @@
     },
     {
       "id": "LFBP",
-      "name": "Pau Pyrénées Airport",
+      "name": "Pau",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -784,7 +784,7 @@
     },
     {
       "id": "LFBT",
-      "name": "Tarbes-Lourdes-Pyrénées Airport",
+      "name": "Tarbes-Lourdes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -795,7 +795,7 @@
     },
     {
       "id": "LFBU",
-      "name": "Angoulême Brie-Champniers airport",
+      "name": "Angoulême",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -806,7 +806,7 @@
     },
     {
       "id": "LFBX",
-      "name": "Périgueux-Bassillac Airport",
+      "name": "Périgueux",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -817,7 +817,7 @@
     },
     {
       "id": "LFBZ",
-      "name": "Biarritz Pays Basque airport",
+      "name": "Biarritz",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -828,7 +828,7 @@
     },
     {
       "id": "LFCC",
-      "name": "Cahors Lalbenque airport",
+      "name": "Cahors",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -839,7 +839,7 @@
     },
     {
       "id": "LFCI",
-      "name": "Albi Le Sequestre airport",
+      "name": "Albi",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -850,7 +850,7 @@
     },
     {
       "id": "LFCK",
-      "name": "Castres Mazamet Airport",
+      "name": "Castres",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -861,7 +861,7 @@
     },
     {
       "id": "LFCR",
-      "name": "Rodez–Aveyron Airport",
+      "name": "Rodez",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -872,7 +872,7 @@
     },
     {
       "id": "LFDN",
-      "name": "Rochefort-Saint-Agnant (BA 721) Airport",
+      "name": "Rochefort BA 721",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -883,7 +883,7 @@
     },
     {
       "id": "LFGA",
-      "name": "Colmar Houssen airport",
+      "name": "Colmar",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -894,7 +894,7 @@
     },
     {
       "id": "LFGJ",
-      "name": "Dole Tavaux Airport",
+      "name": "Dole Tavaux",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -905,7 +905,7 @@
     },
     {
       "id": "LFHO",
-      "name": "Aubenas-South Ardèche Airport",
+      "name": "Aubenas",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -916,7 +916,7 @@
     },
     {
       "id": "LFJL",
-      "name": "Metz-Nancy-Lorraine Airport",
+      "name": "Metz-Nancy-Lorraine",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -927,7 +927,7 @@
     },
     {
       "id": "LFJR",
-      "name": "Angers Marcé airport",
+      "name": "Angers",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -938,7 +938,7 @@
     },
     {
       "id": "LFKB",
-      "name": "Bastia-Poretta International airport",
+      "name": "Bastia",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -949,7 +949,7 @@
     },
     {
       "id": "LFKC",
-      "name": "Calvi Sainte Catherine Airport",
+      "name": "Calvi",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -960,7 +960,7 @@
     },
     {
       "id": "LFKF",
-      "name": "Figari Sud-Corse Airport",
+      "name": "Figari",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -971,7 +971,7 @@
     },
     {
       "id": "LFKJ",
-      "name": "Ajaccio Napoléon Bonaparte airport",
+      "name": "Ajaccio",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -982,7 +982,7 @@
     },
     {
       "id": "LFKS",
-      "name": "Solenzara (BA 126) Air Base",
+      "name": "Solenzara",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -993,7 +993,7 @@
     },
     {
       "id": "LFLA",
-      "name": "Auxerre Branches airport",
+      "name": "Auxerre",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "LFLB",
-      "name": "Chambéry Aix les Bains airport",
+      "name": "Chambéry",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "LFLC",
-      "name": "Clermont-Ferrand Auvergne airport",
+      "name": "Clermont-Ferrand",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "LFLD",
-      "name": "Bourges airport",
+      "name": "Bourges",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "LFLH",
-      "name": "Chalon Champforgeuil Airfield",
+      "name": "Chalon Champforgeuil",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "LFLL",
-      "name": "Lyon Saint-Exupéry Airport",
+      "name": "Lyon Saint-Exupéry",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "LFLN",
-      "name": "Saint-Yan Airport",
+      "name": "Saint-Yan",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "LFLP",
-      "name": "Annecy Meythet airport",
+      "name": "Annecy",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "LFLS",
-      "name": "Grenoble Alpes Isère Airport",
+      "name": "Grenoble Alpes Isère",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "LFLU",
-      "name": "Valence-Chabeuil Airport",
+      "name": "Valence",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1103,7 +1103,7 @@
     },
     {
       "id": "LFLX",
-      "name": "Châteauroux Déols airport",
+      "name": "Châteauroux Déols",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1114,7 +1114,7 @@
     },
     {
       "id": "LFLY",
-      "name": "Lyon Bron Airport",
+      "name": "Lyon Bron",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "LFMD",
-      "name": "Cannes Mandelieu Airport",
+      "name": "Cannes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "LFMH",
-      "name": "Saint-Étienne-Bouthéon Airport",
+      "name": "Saint-Étienne",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "LFMI",
-      "name": "Istres-Le Tubé Air Base",
+      "name": "Istres",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1158,7 +1158,7 @@
     },
     {
       "id": "LFMK",
-      "name": "Carcassonne Salvaza Airport",
+      "name": "Carcassonne",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1169,7 +1169,7 @@
     },
     {
       "id": "LFML",
-      "name": "Marseille Provence Airport",
+      "name": "Marseille",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "LFMN",
-      "name": "Nice-Côte d'Azur Airport",
+      "name": "Nice",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "LFMO",
-      "name": "Orange-Caritat (BA 115) Air Base",
+      "name": "Orange",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "LFMP",
-      "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+      "name": "Perpignan",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "LFMQ",
-      "name": "Le Castellet Airport",
+      "name": "Le Castellet",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "LFMT",
-      "name": "Montpellier-Méditerranée Airport",
+      "name": "Montpellier",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "LFMU",
-      "name": "Béziers Vias airport",
+      "name": "Béziers",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1246,7 +1246,7 @@
     },
     {
       "id": "LFMV",
-      "name": "Avignon Caumont airport",
+      "name": "Avignon",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "LFMY",
-      "name": "Salon-de-Provence (BA 701) Air Base",
+      "name": "Salon-de-Pvce",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1268,7 +1268,7 @@
     },
     {
       "id": "LFOA",
-      "name": "Avord (BA 702) Air Base",
+      "name": "Avord",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "LFOB",
-      "name": "Beauvais-Tillé airport",
+      "name": "Beauvais",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "LFOC",
-      "name": "Châteaudun Airfield",
+      "name": "Châteaudun",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1301,7 +1301,7 @@
     },
     {
       "id": "LFOE",
-      "name": "Évreux-Fauville (BA 105) Air Base",
+      "name": "Évreux",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1312,7 +1312,7 @@
     },
     {
       "id": "LFOH",
-      "name": "Le Havre-Octeville Airport",
+      "name": "Le Havre",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1323,7 +1323,7 @@
     },
     {
       "id": "LFOJ",
-      "name": "Orléans-Bricy (BA 123) Air Base",
+      "name": "Orléans",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "LFOK",
-      "name": "Chalons Vatry airport",
+      "name": "Chalons Vatry",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1345,7 +1345,7 @@
     },
     {
       "id": "LFOP",
-      "name": "Rouen Vallée de Seine Airport",
+      "name": "Rouen",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "LFOT",
-      "name": "Tours Val de Loire Airport",
+      "name": "Tours",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "LFPB",
-      "name": "Paris-Le Bourget International Airport",
+      "name": "Le Bourget",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "LFPC",
-      "name": "Creil Air Base",
+      "name": "Creil",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1389,7 +1389,7 @@
     },
     {
       "id": "LFPG",
-      "name": "Charles de Gaulle International Airport",
+      "name": "Paris CDG",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1400,7 +1400,7 @@
     },
     {
       "id": "LFPM",
-      "name": "Melun-Villaroche Airfield",
+      "name": "Melun",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1411,7 +1411,7 @@
     },
     {
       "id": "LFPO",
-      "name": "Paris-Orly Airport",
+      "name": "Paris-Orly",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "LFPT",
-      "name": "Pontoise-Cormeilles Aerodrome",
+      "name": "Pontoise",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "LFPV",
-      "name": "Vélizy-Villacoublay Air Base",
+      "name": "Villacoublay",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "LFQB",
-      "name": "Troyes-Barberey Airport",
+      "name": "Troyes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "LFQQ",
-      "name": "Lille Airport",
+      "name": "Lille",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "LFQT",
-      "name": "Merville-Calonne Airport",
+      "name": "Merville",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "LFQV",
-      "name": "Charleville-Mézières Ardennes-Etienne Riché Airfield",
+      "name": "Charleville-Mézières",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1488,7 +1488,7 @@
     },
     {
       "id": "LFRB",
-      "name": "Brest Bretagne airport",
+      "name": "Brest",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "LFRC",
-      "name": "Cherbourg Manche airport",
+      "name": "Cherbourg",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "LFRD",
-      "name": "Dinard Pleurtuit Saint-Malo airport",
+      "name": "Dinard",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1521,7 +1521,7 @@
     },
     {
       "id": "LFRG",
-      "name": "Deauville Normandie airport",
+      "name": "Deauville",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1532,7 +1532,7 @@
     },
     {
       "id": "LFRH",
-      "name": "Lorient South Brittany (Bretagne Sud) Airport",
+      "name": "Lorient",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "LFRI",
-      "name": "La Roche-sur-Yon Les Ajoncs Airport",
+      "name": "La Roche-sur-Yon",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "LFRJ",
-      "name": "Landivisiau Air Base",
+      "name": "Landivisiau",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "LFRK",
-      "name": "Caen Carpiquet airport",
+      "name": "Caen",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1576,7 +1576,7 @@
     },
     {
       "id": "LFRM",
-      "name": "Le Mans-Arnage Airport",
+      "name": "Le Mans",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1587,7 +1587,7 @@
     },
     {
       "id": "LFRN",
-      "name": "Rennes-Saint-Jacques Airport",
+      "name": "Rennes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1598,7 +1598,7 @@
     },
     {
       "id": "LFRO",
-      "name": "Lannion Airport",
+      "name": "Lannion",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "LFRQ",
-      "name": "Quimper-Cornouaille Airport",
+      "name": "Quimper",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1620,7 +1620,7 @@
     },
     {
       "id": "LFRS",
-      "name": "Nantes Atlantique Airport",
+      "name": "Nantes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1631,7 +1631,7 @@
     },
     {
       "id": "LFRT",
-      "name": "Saint-Brieuc-Armor Airport",
+      "name": "Saint-Brieuc",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "LFRV",
-      "name": "Vannes-Meucon Airport",
+      "name": "Vannes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1653,7 +1653,7 @@
     },
     {
       "id": "LFRZ",
-      "name": "Saint-Nazaire-Montoir Airport",
+      "name": "Saint-Nazaire",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1664,7 +1664,7 @@
     },
     {
       "id": "LFSB",
-      "name": "EuroAirport Basel–Mulhouse–Freiburg",
+      "name": "Mulhouse",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "LFSD",
-      "name": "Dijon Longvic airport",
+      "name": "Dijon Longvic",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1686,7 +1686,7 @@
     },
     {
       "id": "LFSG",
-      "name": "Épinal Mirecourt Airport",
+      "name": "Épinal Mirecourt",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1697,7 +1697,7 @@
     },
     {
       "id": "LFSI",
-      "name": "Saint-Dizier – Robinson Air Base",
+      "name": "Saint-Dizier",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "LFSL",
-      "name": "Brive Souillac airport",
+      "name": "Brive Souillac",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1719,7 +1719,7 @@
     },
     {
       "id": "LFSN",
-      "name": "Nancy-Essey Airport",
+      "name": "Nancy-Essey",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "LFSO",
-      "name": "Nancy-Ochey (BA 133) Air Base",
+      "name": "Nancy-Ochey",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1741,7 +1741,7 @@
     },
     {
       "id": "LFST",
-      "name": "Strasbourg Airport",
+      "name": "Strasbourg",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "LFSX",
-      "name": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
+      "name": "Luxeuil",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1763,7 +1763,7 @@
     },
     {
       "id": "LFTF",
-      "name": "Cuers-Pierrefeu Airfield",
+      "name": "Cuers",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "LFTH",
-      "name": "Toulon-Hyères Airport",
+      "name": "Toulon-Hyères",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
@@ -1785,7 +1785,7 @@
     },
     {
       "id": "LFTW",
-      "name": "Nîmes-Arles-Camargue Airport",
+      "name": "Nîmes",
       "countryCode": "FR",
       "isBase": true,
       "isAvt": true,
