@@ -1333,6 +1333,17 @@
       "fuels": []
     },
     {
+      "id": "LFBM",
+      "name": "Mont de Marsan",
+      "countryCode": "FR",
+      "isBase": true,
+      "isAvt": true,
+      "lat": 43.911701,
+      "lon": -0.5075,
+      "runwayMaxM": 3603,
+      "fuels": []
+    },
+    {
       "id": "LFOK",
       "name": "Chalons Vatry",
       "countryCode": "FR",
