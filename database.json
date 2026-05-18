@@ -1355,6 +1355,17 @@
       "fuels": []
     },
     {
+      "id": "LFBG",
+      "name": "Cognac Châteaubernard",
+      "countryCode": "FR",
+      "isBase": true,
+      "isAvt": true,
+      "lat": 45.658298,
+      "lon": -0.3175,
+      "runwayMaxM": 2423,
+      "fuels": []
+    },
+    {
       "id": "LFOP",
       "name": "Rouen",
       "countryCode": "FR",
