@@ -1124,17 +1124,6 @@
       "fuels": []
     },
     {
-      "id": "LFMD",
-      "name": "Cannes",
-      "countryCode": "FR",
-      "isBase": true,
-      "isAvt": true,
-      "lat": 43.547998,
-      "lon": 6.955176,
-      "runwayMaxM": 1540,
-      "fuels": []
-    },
-    {
       "id": "LFMH",
       "name": "Saint-Étienne",
       "countryCode": "FR",
