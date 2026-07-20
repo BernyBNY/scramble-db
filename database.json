@@ -1124,6 +1124,17 @@
       "fuels": []
     },
     {
+      "id": "LFMC",
+      "name": "Le Luc",
+      "countryCode": "FR",
+      "isBase": true,
+      "isAvt": true,
+      "lat": 43.380000,
+      "lon": 6.380000,
+      "runwayMaxM": 1399,
+      "fuels": []
+    },
+    {
       "id": "LFMH",
       "name": "Saint-Étienne",
       "countryCode": "FR",
