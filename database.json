@@ -904,17 +904,6 @@
       "fuels": []
     },
     {
-      "id": "LFHO",
-      "name": "Aubenas",
-      "countryCode": "FR",
-      "isBase": true,
-      "isAvt": true,
-      "lat": 44.544367,
-      "lon": 4.372194,
-      "runwayMaxM": 1425,
-      "fuels": []
-    },
-    {
       "id": "LFJL",
       "name": "Metz-Nancy-Lorraine",
       "countryCode": "FR",
