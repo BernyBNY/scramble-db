@@ -13,6 +13,10 @@
     {
       "code": "IT",
       "name": "Italie"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
     }
   ],
   "airfields": [
